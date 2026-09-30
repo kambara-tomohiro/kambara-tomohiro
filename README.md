@@ -1,16 +1,26 @@
-## Hi there 👋
+# 蒲原 知宏（Kambara Tomohiro）
 
-<!--
-**kambara-tomohiro/kambara-tomohiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+仕事で「読む・調べる・決める」を速くする道具を、AIを使って作っています。
 
-Here are some ideas to get you started:
+## つくっているもの
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **文節速読 RSVP**（Chrome 拡張・公開準備中）— 日本語の長文を1文節ずつ画面中央に表示して、視線を動かさずに読み切るツール。クリックしたところからすぐ読み始められます。
+- 役割の違う複数の AI が分担して仕事を進める「AI 組織」を、日々の業務の中で作り込んでいます。
+
+## これまで
+
+- **研究**: 東京工業大学（現東京科学大学）で博士（工学）。シリコン量子コンピュータの基礎実験。日本学術振興会 特別研究員（DC2）。
+- **技術営業**: 東陽テクニカでソフトウェア開発支援ツールの営業を3年。その後、シーメンスで振動騒音の計測・解析のプリセールス。全世界のプレゼン評価でアジア1位。
+- **技術調査**: 企業の研究開発テーマを調べるリサーチマネージャー／PM。
+
+分野をまたいで「なぜそうなるのか」を読み解き、使える形に言い直すのが得意です。
+
+## 大事にしていること
+
+- 自分が納得できるまで理解してから作る
+- 使う人が「ここで使いたい」と思ったその場で使えること
+
+## リンク
+
+- note: https://note.com/kambara_tomohiro
+- LinkedIn: https://www.linkedin.com/in/tomohiro-kambara-402947145
